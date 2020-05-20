@@ -1,0 +1,5 @@
+docker run -e PASSWORD=pwd123 -p 8787:8787 webshot
+
+#open webbrowser http://localhost:8787 
+#login: rstudio
+#pwd: pwd123
